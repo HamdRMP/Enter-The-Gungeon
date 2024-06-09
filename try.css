@@ -84,9 +84,9 @@ header {
 }
 #game-info {
   margin-top: 5%;
-  width: 55%;
+  width: 90%;
   height: 60%;
-  outline: #ffc300 solid 20px;
+  outline: #ffc300 solid 15px;
   border-radius: 5px;
   border: white 4px solid;
   overflow: hidden;
