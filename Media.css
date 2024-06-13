@@ -1,0 +1,52 @@
+@media  (max-width: 768px) {
+    #info-game-text{
+      width:33%;
+      font-size: 0.7rem;
+    }
+    #info-game-text h2{
+      font-size: 0.9rem;
+    }
+  }
+  @media (max-width: 600px) {
+    #info-game-text{
+      width:45%;
+      font-size: 0.6rem;
+    }
+    #info-game-text h2{
+      font-size: 0.85rem;
+    }
+  }
+  @media  (max-width: 460px) {
+    #navigation-bar li {
+      
+      margin: 0.25rem 0.25rem 0px 0.25rem;
+    }
+    #info-game-text{
+      width:40%;
+      font-size: 0.5rem;
+    }
+    #info-game-text h2{
+      font-size: 0.8rem;
+    }
+  }
+  
+  @media (max-width: 399px) {
+    #navigation-bar li {
+      margin: 0.15rem 0.15rem 0rem 0.15rem;
+    }
+    #info-game-text{
+      width:35%;
+      font-size: 0.45rem;
+    }
+    #info-game-text h2{
+      font-size: 0.75rem;
+    }
+  }
+  @media (max-width: 700px) {
+    #Hero-vid {
+      width: 90%;
+      height: 50%;
+    }
+  }
+  
+  
